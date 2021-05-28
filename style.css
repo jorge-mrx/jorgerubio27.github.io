@@ -1,0 +1,24 @@
+body {
+background-color: rgb(24, 24, 24);
+color:rgb(238, 238, 238);
+}
+
+.header-container {
+    background-color: rgba(97, 97, 97, 0.459);
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.welcome {
+    margin-left: 2vh;
+    font-family: "Lucida", monospace;
+}
+
+.image {
+    margin-top:10vh;
+    text-align: center;
+}
+
+.rounded-image {
+    border-radius: 20px;
+}
